@@ -1,0 +1,11 @@
+effect_bundle,effect,scope,value
+officer_bonus_D,stat_melee_defence,unit,1
+officer_bonus_D,stat_morale,unit,1
+officer_bonus_C,stat_melee_defence,unit,2
+officer_bonus_C,stat_morale,unit,2
+officer_bonus_B,stat_melee_attack,unit,3
+officer_bonus_B,stat_morale,unit,3
+officer_bonus_A,stat_melee_attack,unit,4
+officer_bonus_A,stat_morale,unit,4
+officer_bonus_S,stat_melee_attack,unit,6
+officer_bonus_S,stat_morale,unit,6
