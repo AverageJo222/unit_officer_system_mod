@@ -1,0 +1,14 @@
+key,localised_name,localised_description,duration,is_permanent,icon
+op_bundle_brave,Brave (Officer Trait),Increases morale and melee effectiveness for the unit.,0,1,op_brave_icon
+op_bundle_tactician,Tactician (Officer Trait),Improves attack and charge potential.,0,1,op_tactician_icon
+op_bundle_coward,Coward (Officer Trait),Reduces morale and increases chance to flee.,0,1,op_coward_icon
+op_bundle_veteran,Veteran (Officer Trait),Reduces fatigue and increases melee capability.,0,1,op_veteran_icon
+op_bundle_disciplined,Disciplined (Officer Trait),Improves missile accuracy and defense.,0,1,op_disciplined_icon
+op_bundle_reckless,Reckless (Officer Trait),Increases charge bonus at cost of defense.,0,1,op_reckless_icon
+op_bundle_stalwart,Stalwart (Officer Trait),Improves defense and morale.,0,1,op_stalwart_icon
+op_bundle_steadfast,Steadfast (Officer Trait),More resistant to isolation penalties.,0,1,op_steadfast_icon
+op_bundle_inspiring,Inspiring (Officer Trait),Boosts morale especially when near a general.,0,1,op_inspiring_icon
+op_bundle_sharpshooter,Sharpshooter (Officer Trait),Increases missile accuracy.,0,1,op_sharpshooter_icon
+op_bundle_ironhide,Ironhide (Officer Trait),Greatly increases defense at minor attack cost.,0,1,op_ironhide_icon
+op_bundle_berserker,Berserker (Officer Trait),Large attack boost but increases fatigue and reduces defense.,0,1,op_berserker_icon
+op_bundle_guardian,Guardian (Officer Trait),Good defensive bonuses and morale protection.,0,1,op_guardian_icon
